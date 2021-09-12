@@ -1,3 +1,4 @@
+#KEY: random function and string format functions
 import random
 
 def get_message(tried_cnt):

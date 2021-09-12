@@ -1,3 +1,4 @@
+#Key: random.choice function
 import random
 
 if __name__ == "__main__":
@@ -12,8 +13,8 @@ if __name__ == "__main__":
         
         if (user == computer):
             print("It's a tie! One more time!")
-        elif ((user == "r" and computer == "s") |
-            (user == "p" and computer == "r") |
+        elif ((user == "r" and computer == "s") or
+            (user == "p" and computer == "r") or
             (user == "s" and computer == "p")):
             print("You WIN !!!")
             break

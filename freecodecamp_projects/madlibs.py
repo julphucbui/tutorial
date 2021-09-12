@@ -1,3 +1,4 @@
+# Key: string format functions
 # https://www.youtube.com/watch?v=8ext9G7xspg
 import random
 
